@@ -13,3 +13,5 @@ We use autocorrect every day on your cell phone and computer. The model is not i
 Similar systems are used everywhere.
 
 For example, if you type in the word "I am lerningg", chances are very high that you meant to write "learning".
+
+The Turkish translation of Sapiens: A Brief History of Humanind, written by Yuval Noah Harari, has been used as a corpus.
